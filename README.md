@@ -4,6 +4,8 @@ Customize
 Static
 Crosshair
 
+[ Current Crosshair's ]
+
    |      \   /
 –—   —–            •    —   —
    |      /   \           |
