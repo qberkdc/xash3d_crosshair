@@ -1,8 +1,8 @@
 ```
-Your
-Customize
-Static
-Crosshair
+- Your
+– Customize
+— Static
+— Crosshair
 
 [ Current Crosshair's ]
 
