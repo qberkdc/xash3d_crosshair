@@ -12,7 +12,7 @@ Crosshair
 ```
 <p></p>
 
-**`[🔻]`** [Download](https://github.com/qberkdc/xash3d_crosshair/releases/download/cscv1/Customize.Crosshair.zip)
+**`[💙]`** [Download](https://github.com/qberkdc/xash3d_crosshair/releases/download/cscv1/Customize.Crosshair.zip)
 
 ----
 
