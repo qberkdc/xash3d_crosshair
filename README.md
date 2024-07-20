@@ -12,6 +12,8 @@ Crosshair
 ```
 <p></p>
 
+**`[🔻]`** [Download](https://github.com/qberkdc/xash3d_crosshair/releases/download/cscv1/Customize.Crosshair.zip)
+
 ----
 
 <img align="right" height="70px" width="auto" src="https://raw.githubusercontent.com/qberkdc/xash3d_crosshair/public/logos/crosshair_logo.png">
